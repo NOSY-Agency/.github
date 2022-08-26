@@ -1,4 +1,4 @@
-![NOSY logo](./profile/assets/img/nosy-logo.png)
+![NOSY logo](/profile/assets/img/nosy-Logo.png)
 
 # NOSY
 
